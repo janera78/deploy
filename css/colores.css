@@ -1,0 +1,15 @@
+/* COLORES */
+/* ******** */
+
+:root{
+    --colorFondo: #E8F9FF;;
+    --colorTexto: #0000;
+    --colorFooter: #647378;
+    --colorTextoFooter: #E8F9FF;
+}
+
+footer{
+    background-color: var(--colorFooter);
+    text-decoration-color: var(--colorTextoFooter)
+    
+}

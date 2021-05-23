@@ -1,0 +1,11 @@
+
+/* TIPOGRAFIA */
+/* ******** */
+
+:root{
+    --parrafo: 16px;
+}
+
+p{
+    font-size: var(--parrafo);
+}
